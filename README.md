@@ -52,9 +52,9 @@
 
 ### Leetcode Stats
 
-<div>
+<!-- <div>
   <img src="https://leetcard.jacoblin.cool/deepanjalisinghghosh?ext=heatmap" alt="GitHub Stats" width="80%" margin="50px">
-</div>
+</div>-->
 
 ### GitHub Stats
 <div>
